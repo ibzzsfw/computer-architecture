@@ -1,8 +1,8 @@
 ; +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ; +		PS4.s						+
 ; +								+
-; +		Created by  Pakamon Trakarnkittikul (1055)	+
-; +					Suppakorn Rakna (1061) 	+
+; +		Created by	Pakamon Trakarnkittikul (1055)	+
+; +				Suppakorn Rakna (1061)		+
 ; +		13/2/2022					+
 ; +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ; +								+
